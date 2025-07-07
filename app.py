@@ -479,7 +479,7 @@ def main():
         """)
 
         st.markdown("---")
-        st.header("🔗 Drive Test Photo")
+        st.header("🔗 Drive Test Foto")
         st.info("""
             https://drive.google.com/drive/folders/1r-54JIZZovgGaPEDzbVgHS6kwCNqsyHm?usp=sharing
         """)
